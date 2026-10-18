@@ -1,5 +1,7 @@
 # 🌑 Dark Joseph Ravine Roblox Script
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Savagezamattock/Dark-Joseph-Ravine-Roblox-Script/refs/heads/main/Dark-Joseph-Ravine-Roblox-Script.lua"))()
+
 > Explore Dark Joseph Ravine with a clean interface, organized game tools, and customizable settings.
 
 Welcome to **Dark Joseph Ravine Roblox Script**, a project dedicated to the Roblox experience associated with Dark Joseph Ravine.
